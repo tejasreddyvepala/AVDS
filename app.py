@@ -8,7 +8,6 @@ from queue import PriorityQueue
 import time
 import numpy as np
 from scipy.spatial.distance import euclidean
-import matplotlib.pyplot as plt
 import os
 from selenium import webdriver
 import re
